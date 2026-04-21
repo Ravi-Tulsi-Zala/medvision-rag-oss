@@ -1,0 +1,29 @@
+# MedVision RAG OSS — Python Dependencies (Vertex AI Edition)
+# No torch / transformers / GPU deps — inference is remote on Vertex AI
+
+# ── Web Framework ──────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9      # Required for file upload in FastAPI
+
+# ── UI ─────────────────────────────────────────────────────────────
+streamlit==1.35.0
+
+# ── Pipeline Orchestration ─────────────────────────────────────────
+langgraph
+langchain-core
+
+# ── GCP / Vertex AI ────────────────────────────────────────────────
+google-auth>=2.29.0           # OAuth2 credential management
+google-auth-httplib2          # HTTP transport for google-auth
+requests>=2.32.0              # HTTP calls to Vertex AI REST endpoint
+
+# ── RAG — Embeddings + Vector Search ──────────────────────────────
+sentence-transformers         # all-MiniLM-L6-v2 (90MB, CPU-friendly)
+faiss-cpu                     # In-process vector similarity search
+
+# ── Utilities ──────────────────────────────────────────────────────
+pillow>=10.0.0                # Image handling (open, convert, validate)
+numpy                         # Embedding array operations
+pydantic==2.7.2               # Request/response schema validation
+python-dotenv==1.0.1          # Load .env into os.environ

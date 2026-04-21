@@ -1,0 +1,83 @@
+CHEST X-RAY INTERPRETATION
+
+A chest X-ray (CXR) is one of the most commonly performed radiological examinations. It provides information about the heart, lungs, diaphragm, great vessels, mediastinum, and bony thorax. A systematic approach is essential: assess technical quality, then evaluate airways, bones, cardiac silhouette, diaphragm, and lung fields (ABCDE method).
+
+PNEUMONIA
+
+Pneumonia is an infection of the lung parenchyma. On chest X-ray, pneumonia typically appears as focal airspace consolidation, often in the lower lobes. Lobar pneumonia shows complete consolidation of one or more lobes with air bronchograms — linear lucent streaks representing air-filled bronchi within consolidated lung. Bronchopneumonia presents as patchy bilateral airspace opacities. Interstitial pneumonia shows bilateral reticular or reticulonodular patterns. Symptoms include fever, productive cough, dyspnea, and pleuritic chest pain. Common organisms include Streptococcus pneumoniae (most common bacterial cause), Haemophilus influenzae, and Mycoplasma pneumoniae (atypical pattern, bilateral lower lobe involvement).
+
+PLEURAL EFFUSION
+
+Pleural effusion is an abnormal accumulation of fluid in the pleural space. On upright chest X-ray, it appears as blunting of the costophrenic angle (requires approximately 200-300mL), a meniscus sign with fluid tracking up the lateral chest wall, and in large effusions, complete opacification of a hemithorax with mediastinal shift away from the effusion. Causes include heart failure (transudative, bilateral), pneumonia (exudative, parapneumonic), malignancy (exudative, often unilateral), pulmonary embolism, renal failure, and liver cirrhosis. Decubitus X-ray can confirm free-flowing effusion by demonstrating dependent layering.
+
+PNEUMOTHORAX
+
+Pneumothorax is the presence of air in the pleural space. On chest X-ray, it appears as a visible pleural line (thin white line) with absence of lung markings peripheral to this line. A tension pneumothorax is a medical emergency: the pleural line is seen with contralateral mediastinal shift, ipsilateral diaphragm depression, and rib space widening. Spontaneous pneumothorax occurs in tall, thin young men or in patients with underlying lung disease (COPD, asthma). Traumatic pneumothorax results from chest injury. Treatment ranges from observation (small, asymptomatic) to needle decompression and chest tube insertion for tension pneumothorax.
+
+CONGESTIVE HEART FAILURE (CHF)
+
+Heart failure on chest X-ray shows a classic progression. Cardiomegaly is defined by cardiothoracic ratio greater than 0.5 on PA view. Early CHF shows upper lobe venous diversion (cephalization) with distended upper lobe pulmonary veins. Interstitial edema produces Kerley B lines — short horizontal lines at lung bases representing fluid in interlobular septa — and peribronchial cuffing. Alveolar edema presents as bilateral perihilar bat-wing or butterfly opacities. Pleural effusions are commonly bilateral. Treatment includes diuretics, ACE inhibitors, beta-blockers, and treatment of underlying cause.
+
+CARDIOMEGALY
+
+An enlarged cardiac silhouette on chest X-ray (cardiothoracic ratio >0.5 on PA view) can result from cardiac muscle hypertrophy, ventricular dilation, pericardial effusion, or technical factors. Causes include hypertensive heart disease, cardiomyopathy (dilated, hypertrophic, restrictive), valvular heart disease (mitral regurgitation, aortic regurgitation), left or right ventricular failure, and pericardial effusion. Pericardial effusion produces a flask-shaped or globular cardiac silhouette. Echocardiography is essential for further evaluation.
+
+PULMONARY EMBOLISM
+
+Pulmonary embolism (PE) is a blockage of the pulmonary arteries by blood clots originating from deep vein thrombosis (DVT). Chest X-ray is often normal but can show Hampton's hump (wedge-shaped peripheral opacity representing pulmonary infarction), Westermark sign (focal oligemia — decreased vascular markings — distal to obstruction), Fleischner sign (enlarged pulmonary artery), and pleural effusion. CT pulmonary angiography (CTPA) is the gold standard diagnostic test, showing filling defects in pulmonary arteries. Symptoms include sudden onset dyspnea, pleuritic chest pain, hemoptysis, and tachycardia. Risk factors include prolonged immobility, malignancy, hypercoagulable states, oral contraceptives, and pregnancy.
+
+TUBERCULOSIS (TB)
+
+Tuberculosis is caused by Mycobacterium tuberculosis. Primary TB shows hilar lymphadenopathy, consolidation (often lower lobe or perihilar), and pleural effusion. Post-primary (reactivation) TB classically involves the upper lobes with cavitation, fibrosis, and volume loss. Miliary TB presents as innumerable tiny (1-3mm) nodules evenly distributed throughout both lungs resembling millet seeds. Radiological patterns of TB include cavitary lesions with thick walls, apical scarring and fibrosis, satellite nodules around primary consolidation, and calcified Ghon complex (healed primary TB). Diagnosis requires sputum smear microscopy, culture, and PCR. Treatment involves a 6-month course of anti-TB medications (HRZE regimen).
+
+LUNG CANCER
+
+Lung cancer on chest X-ray can present as a peripheral lung mass (solitary pulmonary nodule if <3cm, lung mass if >3cm), hilar or mediastinal enlargement from lymph node metastases, lobar collapse from endobronchial obstruction, pleural effusion (malignant), and bone destruction of ribs or vertebrae. Non-small cell lung cancer (NSCLC) includes adenocarcinoma (most common, often peripheral), squamous cell carcinoma (often central, cavitating), and large cell carcinoma. Small cell lung cancer is central, rapidly growing, and associated with paraneoplastic syndromes. Risk factors include smoking, asbestos, radon, and occupational exposures. CT-guided biopsy and PET-CT staging are standard.
+
+CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)
+
+COPD encompasses emphysema and chronic bronchitis. On chest X-ray, emphysema shows hyperinflation (barrel chest, flattened diaphragms, increased AP diameter), hyperlucency of lung fields, decreased vascular markings, and prominent pulmonary arteries. Bullae (thin-walled air-filled spaces >1cm) may be present. The heart may appear small and elongated (vertical). Chronic bronchitis shows increased bronchovascular markings (dirty lungs). CT chest shows centrilobular emphysema (upper lobe predominant, tobacco-related), panlobular emphysema (lower lobe predominant, alpha-1 antitrypsin deficiency), and paraseptal emphysema (subpleural, bullae).
+
+AORTIC DISSECTION
+
+Aortic dissection is a tear in the inner layer of the aorta. On chest X-ray, it may show a widened mediastinum (>8cm on AP view), widening of the aortic knuckle, irregular aortic contour, displacement of trachea or nasogastric tube to the right, and left pleural effusion. Type A dissection involves the ascending aorta and is a surgical emergency. Type B dissection is confined to the descending aorta and is managed medically initially. CT aortography with contrast is the diagnostic modality of choice showing the intimal flap and true/false lumen. Symptoms include sudden severe tearing chest or back pain, pulse deficits, and neurological symptoms.
+
+INTERSTITIAL LUNG DISEASE (ILD)
+
+ILD represents a heterogeneous group of diffuse parenchymal lung diseases. Radiological patterns include reticular pattern (network of lines), nodular pattern, ground-glass opacity (hazy increased density preserving bronchovascular markings), consolidation, honeycombing (clustered cystic airspaces, 3-10mm, with thick walls), and traction bronchiectasis. Common causes include idiopathic pulmonary fibrosis (UIP pattern: basal, subpleural honeycombing with traction bronchiectasis), sarcoidosis (bilateral hilar lymphadenopathy, upper lobe nodules), hypersensitivity pneumonitis, and connective tissue disease-associated ILD. High-resolution CT (HRCT) is essential for characterization.
+
+BONE FINDINGS ON CHEST X-RAY
+
+Systematic evaluation of bones on chest X-ray is essential. Rib fractures appear as cortical disruption, often at posterior angles. Multiple rib fractures suggest significant trauma; a flail segment requires three or more consecutive ribs fractured in two places. Pathological fractures from metastatic disease show lytic or sclerotic lesions with cortical destruction. Sclerotic (blastic) metastases are seen with prostate and breast cancer. Lytic metastases are common with lung, kidney, thyroid, and myeloma. Vertebral fractures, clavicle fractures, and shoulder joint abnormalities should also be evaluated.
+
+RADIOLOGY FUNDAMENTALS
+
+Radiological density from least to most dense (white on X-ray): air (black), fat, water/soft tissue (gray), bone, and metal (white). Normal structures on PA chest X-ray: trachea midline, carina at T4-T5, hilum (left higher than right), cardiac silhouette (2/3 left, 1/3 right of midline), right hemidiaphragm higher than left (by 1.5-2.5cm), and costophrenic angles should be sharp. Air bronchograms indicate alveolar filling (consolidation) while the airway remains patent. Silhouette sign: loss of the border between two adjacent structures of similar density (e.g., right heart border effaced by right middle lobe consolidation).
+
+CT SCAN FUNDAMENTALS
+
+Computed tomography (CT) provides cross-sectional imaging with superior contrast resolution compared to plain X-ray. Hounsfield units (HU) measure tissue attenuation: air (-1000 HU), fat (-100 to -50 HU), water (0 HU), soft tissue (20-80 HU), and bone (+400 HU). Contrast enhancement identifies vascular structures and areas with increased blood supply (tumors, inflammation). Window and level settings optimize visualization of specific tissues: lung window for parenchyma, mediastinal window for soft tissues, bone window for skeletal structures.
+
+MRI FUNDAMENTALS
+
+Magnetic resonance imaging (MRI) uses magnetic fields and radiofrequency waves. T1-weighted images: fat appears bright, fluid appears dark, useful for anatomy. T2-weighted images: fluid appears bright, fat appears moderately bright, useful for pathology (edema, tumors). Gadolinium contrast enhancement identifies areas with disrupted blood-brain barrier or increased vascularity. MRI is superior to CT for brain, spinal cord, soft tissue, and musculoskeletal pathology. MRI is contraindicated in patients with ferromagnetic implants, pacemakers (unless MRI-compatible), and certain metallic foreign bodies.
+
+COMMON RADIOLOGICAL SIGNS
+
+- Air bronchogram: linear lucencies within consolidation indicating patent bronchi
+- Silhouette sign: loss of normal border between adjacent structures
+- Hampton's hump: peripheral wedge-shaped opacity suggesting pulmonary infarction
+- Westermark sign: focal vascular pruning/oligemia distal to pulmonary embolism
+- Kerley B lines: short horizontal lines at lung bases from interlobular septal thickening
+- Bat-wing pattern: bilateral perihilar consolidation in pulmonary edema
+- Sail sign: thymic sail in pediatric chest X-ray (normal variant)
+- Golden S sign: central mass with lobar collapse creating an S-shaped curve
+- Meniscus sign: concave upper border of pleural effusion
+
+RADIOLOGY SAFETY
+
+Radiation dose from common imaging: chest X-ray 0.1 mSv, chest CT 7 mSv, abdominal CT 8 mSv, PET-CT 25 mSv. Background annual radiation is 2-3 mSv. CT scans should follow ALARA principle (As Low As Reasonably Achievable). Pediatric patients require dose-reduction protocols. Contrast reactions range from mild (nausea, urticaria) to anaphylaxis; premedication with steroids and antihistamines is used in high-risk patients. Nephrotoxicity from iodinated contrast is a concern in patients with renal impairment (GFR <30); hydration and N-acetylcysteine may be used prophylactically.
+
+NORMAL CHEST X-RAY CHECKLIST
+
+A normal PA chest X-ray shows: trachea central with normal caliber, carina angle less than 70 degrees, both hila at same level (right slightly lower), cardiac silhouette normal size (CTR <0.5), aortic knuckle visible but not enlarged, both hemidiaphragms dome-shaped (right higher), costophrenic angles sharp bilaterally, lung fields clear with normal vascular markings, no free air under diaphragm, and bony thorax intact without focal lesions.

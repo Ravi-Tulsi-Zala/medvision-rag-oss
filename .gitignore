@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment — NEVER commit
+.env
+
+# GCP credentials — NEVER commit
+credentials.json
+*.json
+!package.json
+
+# Generated FAISS index (rebuilt by ingest.py)
+data/faiss_index.bin
+data/chunks.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
